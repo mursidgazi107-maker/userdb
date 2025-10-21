@@ -16,5 +16,11 @@
         "key": "Niloy",
         "expirydate": "15-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "2e1d4281899bc8b7",
+        "key": "NKOASD",
+        "expirydate": "28-11-2025",
+        "Allowoffline": false
     }
 ]
