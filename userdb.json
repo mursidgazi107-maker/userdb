@@ -22,5 +22,11 @@
         "key": "NKOASD",
         "expirydate": "28-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "80236860eccd9d91",
+        "key": "11",
+        "expirydate": "28-11-2025",
+        "Allowoffline": false
     }
 ]
