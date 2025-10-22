@@ -34,5 +34,11 @@
         "key": "BADSHA",
         "expirydate": "05-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "14eead15dba82571",
+        "key": "1234",
+        "expirydate": "28-11-2025",
+        "Allowoffline": false
     }
 ]
