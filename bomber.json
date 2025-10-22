@@ -22,5 +22,11 @@
         "key": "1234",
         "expirydate": "10-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "0a2fd91c62d499ac",
+        "key": "NKOAAA",
+        "expirydate": "10-11-2025",
+        "Allowoffline": true
     }
 ]
