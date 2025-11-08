@@ -46,5 +46,11 @@
         "key": "1234",
         "expirydate": "28-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "89bd35d468ba1296",
+        "key": "1234",
+        "expirydate": "28-11-2025",
+        "Allowoffline": false
     }
 ]
