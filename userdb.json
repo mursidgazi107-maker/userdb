@@ -50,7 +50,7 @@
     {
         "device_id": "89bd35d468ba1296",
         "key": "123",
-        "expirydate": "28-11-2025",
-        "Allowoffline": false
+        "expirydate": "28-12-2025",
+        "Allowoffline": true
     }
 ]
